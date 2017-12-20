@@ -143,4 +143,5 @@
     # Make `git push` automatically push relevant
     # annotated tags when pushing branches out.
 
-    followTags = true
+    # Uncomment next line if it's needed
+    # followTags = true
